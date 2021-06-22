@@ -50,7 +50,7 @@ How to choose the best locations:
 		3. Sales Tax per County
 				- Includes general retail sales and compensating use tax OR sales tax on a consumer utilities services 
 				- To help undestanding the customers spending behavior in each County
-		4. Popular Density per County
+		4. Population Density per County
 				- Areas with higher population are more likely to use the charging stations
 				- To help undestanding the customers base and potential user amounts in each county
 		5. Annual Average Daily Traffic

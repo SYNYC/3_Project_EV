@@ -12,7 +12,7 @@ Below are the results for each dataset shows and its own variables that will be 
 
 There's 63 counties in New York State.
 
-<img src="https://github.com/SYNYC/3_Project_EV/blob/main/charts/New_York_State_Counties_Map.png" width = "600" height = "600">  
+<img src="https://github.com/SYNYC/3_Project_EV/blob/main/charts/New_York_State_Counties_Map.png" width = "650" height = "600">  
 
 
 
@@ -26,27 +26,26 @@ As our expanding strategy, we also prefer to place new stations away from ones t
 
 
 ### 2. EV Ownerships
-a. EV Ownerships by County
+#### a. EV Ownerships by County
 
 From this density map, we can spot that the following counties have the highest amount of EV owners: Suffolk, Nassau, Westchester, New York(Queens and Kings), Monroe and Erie. 
 
-<img src="https://github.com/SYNYC/3_Project_EV/blob/main/charts/NYS_EV_Ownership_Density_byCounty.png" width = "450" height = "450">
+<img src="https://github.com/SYNYC/3_Project_EV/blob/main/charts/NYS_EV_Ownership_Density_byCounty.png" width = "750" height = "450">
 
 
-b. EV Number of Ownerships/Users Growth by Year
+#### b. EV Number of Ownerships/Users Growth by Year
 
 This Line chart represents the number of new EV owners from 2016 to 2019. We can see it increases over time and peaked during the end of 2018, however the number comes down in 2019 and I assume one of the reasons might be the obstacle that EV users can't find the charging stations as easy as they thought.
 
 
-<img src="https://github.com/SYNYC/3_Project_EV/blob/main/charts/EV_Number_of_Users_Growth_byYear.png" width = "450" height = "450">
+<img src="https://github.com/SYNYC/3_Project_EV/blob/main/charts/EV_Number_of_Users_Growth_byYear.png" width = "600" height = "450">
 
 
-### 3. Sales Tax per County
-### 4. Popular Density per County
+### 3. Sales Tax per County & 4. Popular Density per County
 To help us undestanding the customers spending behavior in each County, I took the number of Sales Tax divided by Population for each County to show the overall concept of consumer demographocs.
-New York and Suffolk are the counties of the top spending customers.
+New York and Suffolk are the top spending customers counties amongst all.
 
-<img src="https://github.com/SYNYC/3_Project_EV/blob/main/charts/SalesTax_PerCapita.png" width = "450" height = "450">
+<img src="https://github.com/SYNYC/3_Project_EV/blob/main/charts/SalesTax_PerCapita.png" width = "750" height = "450">
 
 
 ### 5. Annual Average Daily Traffic

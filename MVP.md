@@ -50,21 +50,36 @@ New York and Suffolk are the top spending customers counties amongst all.
 
 ### 5. Annual Average Daily Traffic
 
+To visual the traffic volume and density of the high traffic area in NYS, I made two charts as below 
+
+- AADT Volume Bar Chart
+ <img src="https://github.com/SYNYC/3_Project_EV/blob/main/charts/AADT.png" width = "750" height = "450">
 
 
-## Ranking by variables
-rank with weighted measures
-
- - **target** :  _   _ 
- - **variables** : 
+- AADT Volume Density Map 
+<img src="https://github.com/SYNYC/3_Project_EV/blob/main/charts/AADT_map.png" width = "750" height = "450">
 
 
 
-                           
-   4. add catergorial dummies: 
+## Ranking
+
+The system is taking the following steps for ranking:
+
+1. **Each Variable Ranking**: For each variable, each county has a number to present its situation. According to these numbers, We ranked all counties from 1 to 63 within its own catergory. 
+     
+		- Population: more population, higher ranking
+		- Sales Tax per Capita: more dollar amount, higher ranking
+		- Total EV Owners: more EV owners, higher ranking
+		- Number of Stations: less stations, higher ranking (less competitive)
+		- EVs per Station Count: higher number, higher ranking (high demand to low supply) 
 
 
-                            a .ratings
-                            b. genres
-    
+2. **Weighted Ranking**: The weighted measures is taken by the proportion of Population(25%), Sales Tax per Capita(20%), Total EV Owners(30%), Number of EV per Station(25%).
+
+3. **Final Ranking**: Ranking based on Weighted Ranked data. Here we show the top counties for the overall score as below:
+
+<img src="https://github.com/SYNYC/3_Project_EV/blob/main/charts/Final_Ranking.png" width = "850" height = "450">
+
+
+
 

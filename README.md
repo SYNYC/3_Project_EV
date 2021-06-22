@@ -1,4 +1,4 @@
-# Business Project : Charging your way to Climate Change   
+# Charging your way to Climate Change   
 
 # Project Proposal
 

@@ -52,7 +52,7 @@ How to choose the best locations:
 
 
 
-## Impact Hypothesis:
+## Impact Hypothesis
 Choosing the optimal charging station locations will help the business to develop a competitive advantage and acquire defensible market share from competitors.
 
 By using the prediction model, Volta can identify/prioritize the best locations to place its future EV charging stations. By analyzing various datasets and variables, the company will be able to maximize profits, customer utilization and overall brand awareness.  Additionally, brand partners that advertise through Volta will see higher satisfaction and effectiveness in money spent. This can result in sustainable long-term partnerships and higher levels of customer retention.

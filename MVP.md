@@ -21,7 +21,7 @@ I colored the existng stations by different EV networks such as ChargePoint, Tel
 
 As our expanding strategy, we also prefer to place new stations away from ones that already exist to balance the supply and demand.
 
-<img src="https://github.com/SYNYC/3_Project_EV/blob/main/charts/Tableau_NYS%20EV%20Charing%20Stations.png" width = "600" height = "600">
+<img src="https://github.com/SYNYC/3_Project_EV/blob/main/charts/Tableau_NYS%20EV%20Charing%20Stations.png" width = "1200" height = "600">
 
 
 

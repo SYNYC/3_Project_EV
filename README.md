@@ -4,7 +4,7 @@
 
 
 
-## Introduction:
+## Introduction
 
 
 ### Backstory: 
@@ -25,12 +25,12 @@ Volta's business model is centered around advertising partnerships that drive re
 
 
 
-## Problem:
+## Problem
 
 To help Volta Charging expand by choosing the optimal locations to place EV charging stations in New York, while taking into account its unique business model and objectives.
 
 
-## Data Science Solution path:
+## Data Science Solution path
 
 **WHEN and WHERE**
 
@@ -58,7 +58,7 @@ Choosing the optimal charging station locations will help the business to develo
 By using the prediction model, Volta can identify/prioritize the best locations to place its future EV charging stations. By analyzing various datasets and variables, the company will be able to maximize profits, customer utilization and overall brand awareness.  Additionally, brand partners that advertise through Volta will see higher satisfaction and effectiveness in money spent. This can result in sustainable long-term partnerships and higher levels of customer retention.
 
 
-## Measures of success:
+## Measures of success
 
 Non-technical metrics: 
 1. Customer Usage Growth % :
@@ -72,7 +72,7 @@ Technical metrics:
 
 
 
-## Risk and assumptions:
+## Risk and assumptions
 
 1. Undesirable location chosen:
 If the wrong choice is made for a charging station location, this could result in lower profitability and customer utilization after the fixed cost has been incurred. In order to mitigate this, as many variables and datasets must be analyzed as possible to increase confidence in location choice
@@ -83,18 +83,18 @@ Once Volta has determined optimal locations, there is a chance that a competitor
 
 
 
-## Tools:
+## Tools
 1. Excel
 2. Tableau
 
 
 
-## Workflow:
+## Workflow
 1. Data Acquisition  ([NYS Goverment Data](https://data.ny.gov))
 2. EDA with excel
 3. Tableau for Mapping
 
 
-## MVP Goal:
+## MVP Goal
 
 ✨Multiple excel data tables and graphs that  indicate the ranking of each county in New York, based on each dataset/variable that impacts location attractiveness.✨

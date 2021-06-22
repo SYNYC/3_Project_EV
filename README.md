@@ -39,7 +39,7 @@ How to choose the best locations:
 	- Datasets/Variables include:
 	
 	        0. NYS Zipcode County 
-    				- To group the zidcodes into county in order to analyze data based on each County 
+    			- To group the zidcodes into county in order to analyze data based on each County 
 		1. Existing EV charging stations
 				- Prefer to place new stations away from ones that already exist
 		2. EV Ownerships

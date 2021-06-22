@@ -2,9 +2,9 @@
 ##### Sabrina Yang
 
 
-The goal of this project was to create a ranking model that predicted and identified the best locations to place the future EV Charging Stations for Volta. 
+The goal of this project was to create a model that predicted and identified the best locations to place the future EV Charging Stations for Volta. 
 I did EDA and data visualization on the datasets that I have collected from New York State.
-Below are the results for each dataset shows and its own variables that will be considered in the ranking model toward the target as stations site selection.
+Below are the results for each dataset and its own variables that will be considered in the ranking model toward the target as stations site selection.
 
 ## Data Visualization
 

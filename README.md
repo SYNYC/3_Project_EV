@@ -37,19 +37,25 @@ To help Volta Charging expand by choosing the optimal locations to place EV char
 How to choose the best locations:
 	- Use multiple datasets to analyze variables that are important to the choice of EV charging locations
 	- Datasets/Variables include:
-    
+	
+	        0. NYS Zipcode County 
+    				- To group the zidcodes into county in order to analyze data based on each County 
 		1. Existing EV charging stations
 				- Prefer to place new stations away from ones that already exist
-		2. Electricity Usage Map / Electric Utility Rates by Region
-				- May want to place stations away from areas where there are high levels of electricity usage (these places will likely have higher electricity prices)
-				- Place stations in regions with lower electricity rates
-		3. Population Density Map
-				- Areas with higher population are more likely to use the charging stations
-		4. EV Ownership by County/Zip code
-				- Areas with higher EV ownership are more likely to use the charging stations
-		5. EV Number of Users Growth by Year
+		2. EV Ownerships
+			a. EV Ownerships by County
+				- Areas with higher EV ownership are more likely to use the charging stations as the 
+			b. EV Number of Ownerships/Users Growth by Year
 				- Helps project the station building plan over the next years, matching supply and demand
-
+		3. Sales Tax per County
+				- Includes general retail sales and compensating use tax OR sales tax on a consumer utilities services 
+				- To help undestanding the customers spending behavior in each County
+		4. Popular Density per County
+				- Areas with higher population are more likely to use the charging stations
+				- To help undestanding the customers base and potential user amounts in each county
+		5. Annual Average Daily Traffic
+				- Track the Daily Traffic Volume to determine the high traffic locations/Counties
+				
 
 
 ## Impact Hypothesis

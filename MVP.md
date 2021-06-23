@@ -65,7 +65,7 @@ To visual the traffic volume and density of the high traffic area in NYS, I made
 
 The system is taking the following steps for ranking:
 
-1. **Each Variable Ranking**: For each variable, each county has a value associated it. According to these numbers, We ranked all counties from 1 to 63 within its own catergory. 
+1. **Each Variable Ranking**: For each variable, each county has a value associated with it. According to these numbers, We ranked all counties from 1 to 63 within its own catergory. 
      
 		- Population: more population, higher ranking
 		- Sales Tax per Capita: more dollar amount, higher ranking

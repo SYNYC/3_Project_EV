@@ -80,6 +80,9 @@ Tableau
 The results showed that Suffolk County was the best county based on the variables/datasets analyzed. It consistently scored in the top rankings for each dimension. Nassau County, Queen’s County, King’s County and Bronx County were the next 4 best locations respectively. These results were consistent with the current locations chosen by Volta’s competitors to place their charging stations. Forecasting demand for charging stations by county was also consistent with the ranking approach.
 
 
+<img src="https://github.com/SYNYC/3_Project_EV/blob/main/charts/Final_Ranking_new.png" width = "950" height = "450">
+
+
 
 
 

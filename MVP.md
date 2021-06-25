@@ -79,7 +79,7 @@ The system is taking the following steps for ranking:
 3. **Final Ranking**: Ranking based on Weighted Ranked data. Here we show the top counties for the overall score as below:
 
 
-<img src="https://github.com/SYNYC/3_Project_EV/blob/main/charts/Final_Ranking.png" width = "950" height = "450">
+<img src="https://github.com/SYNYC/3_Project_EV/blob/main/charts/Final_Ranking_new.png" width = "950" height = "450">
 
 
 

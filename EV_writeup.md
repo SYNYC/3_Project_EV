@@ -37,19 +37,23 @@ The datasets are gathered from [NYS Government Data](https://data.ny.gov) from 6
 1. Gathered data from the NYS Government Data by downloading csv. files and consolidating into a single excel file
 
 *Data Manipulation*
+
 2.	Converted zip codes to counties using vlookup functions, as certain datasets don’t have records by county
 3.	Calculated combination variables (ie., Number of EVs per Station and Sales Tax per Capita)
 4.	Used pivot tables to manipulate data by counties and by time period
 
 *Data Visualization*
+
 5.	Developed various bar charts, line charts, and visual maps incorporating data/variables
 
 *Ranking Calculation*
+
 6.	Ranked each county by favorability according to the 6 variables/datasets
 7.	Applied a weighting for each variable and calculated the overall/final rank for each county
 8.	Organized the counties from best to worst using index-match function
 
 *Forecasting and Projections*
+
 9.	Calculated the compound annual growth rate for EV sales from 2017 to 2020 by county
 10.	Forecasted charging station demand per county by assuming that 1 station is required to support 10 EVs
 

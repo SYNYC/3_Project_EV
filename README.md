@@ -1,4 +1,4 @@
-# Charging your way to Climate Change   
+# Charging Away From Climate Change
 
 # Project Proposal
 

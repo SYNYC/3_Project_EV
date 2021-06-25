@@ -55,6 +55,8 @@ How to choose the best locations:
 				- To help undestanding the customers base and potential user amounts in each county
 		5. Annual Average Daily Traffic
 				- Track the Daily Traffic Volume to determine the high traffic locations/Counties
+		6. EV Rebates data
+				- Take a closer look on EV Sales from 2017 to 2021 to enrich the depth of EV stations projection
 				
 
 
